@@ -1,1 +1,1 @@
-# Stopwatch
+This is a simple Stopwatch built using HTML, CSS, and JavaScript. The stopwatch features basic functionalities like start, stop, reset, and timer display. It is designed to be lightweight, responsive, and easy to use for tracking time.
